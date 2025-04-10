@@ -1,4 +1,4 @@
-# Sistemas de Diagnostico y Tratamiento I
+# Sistemas de Diagnóstico y Tratamiento I
 
 Repositorio de clases prácticas para el curso CASDYTI año 2025.
 
